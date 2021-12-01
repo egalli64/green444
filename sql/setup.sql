@@ -1,4 +1,4 @@
-clients-- run it on MySQL as root
+-- run it on MySQL as root
 
 drop user if exists green;
 drop schema if exists green;

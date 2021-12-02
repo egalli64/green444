@@ -1,25 +1,33 @@
 @charset "UTF-8";
 
 h1 { text-align: center;
-      color:bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      color: black(127, 141, 128);
+      font-size: 24 px
     
     }
 h2  { text-align: center;
-    color:bisque;
+    font-family: cursive;
+    color: black;
+    font-size: 22 px
   
   }
 
-h3 { text-align: left;
+h3 { text-align: center;
+    font-family: cursive,'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color:rgb(255, 60, 0);
+    font-size: 20 px;
 
 }
 
 body {
     
-    background-color: rgb(0, 255, 106);
+    background-image: url("organic.jpg");
+  background-size: 100%;
+  background-position: 50px 50px;
 }
 
-p { text-align: center;
+p { text-align: left;
     color: purple
 
 }

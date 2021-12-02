@@ -3,20 +3,20 @@
 h1 { text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
       color: black(127, 141, 128);
-      font-size: 36 px
+      font-size: 42 px
     
     }
 h2  { text-align: center;
     font-family: cursive;
     color: black;
-    font-size: 34 px
+    font-size: 40 px
   
   }
 
 h3 { text-align: center;
-    font-family: cursive,'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color:rgb(255, 60, 0);
-    font-size: 32 px;
+    font-family: 'Times New Roman', Times, serif;
+    color: seashell;
+    font-size: 38 px;
 
 }
 

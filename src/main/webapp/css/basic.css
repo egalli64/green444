@@ -3,20 +3,20 @@
 h1 { text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
       color: black(127, 141, 128);
-      font-size: 80 px
+      font-size: 100 px
     
     }
 h2  { text-align: center;
     font-family: cursive;
     color: black;
-    font-size: 78 px
+    font-size: 98 px
   
   }
 
 h3 { text-align: center;
     font-family: 'Times New Roman', Times, serif;
     color: seashell;
-    font-size: 76 px;
+    font-size: 96 px;
 
 }
 
@@ -31,12 +31,12 @@ body {
 
 p { text-align: left;
     color: purple;
-    font-size: 80 px;
+    font-size: 100 px;
 
 }
 div { text-align: left;
     color: black;
-    font-size: 80 px;
+    font-size: 100 px;
 
 
 }

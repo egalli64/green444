@@ -29,18 +29,33 @@ body {
   
 }
 
-p { text-align: left;
+p { text-align: center;
     color: black;
     font-size: 120 px;
 
 }
-div { text-align: left;
+div { text-align: center;
     color: black;
     font-size: 120 px;
 
 
 }
+form.form-example {
+  display: table;
+}
 
+div.form-example {
+  display: table-row;
+}
+
+label, input {
+  display: table-cell;
+  margin-bottom: 10px;
+}
+
+label {
+  padding-right: 10px;
+}
 #blockId {
     border: 3px solid #ff8000;
     background-color: #ffff80;

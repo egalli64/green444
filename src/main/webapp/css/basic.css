@@ -29,14 +29,14 @@ body {
   
 }
 
-p { text-align: center;
-    color: black;
+p { color: black;
     font-size: 120 px;
+    text-align: center;
 
 }
-div { text-align: center;
-    color: black;
+div { color: black;
     font-size: 120 px;
+    text-align: center;
 
 
 }
@@ -51,10 +51,12 @@ div.form-example {
 label, input {
   display: table-cell;
   margin-bottom: 10px;
+  text-align: center;
 }
 
 label {
   padding-right: 10px;
+  text-align: center;
 }
 #blockId {
     border: 3px solid #ff8000;

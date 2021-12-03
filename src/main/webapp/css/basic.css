@@ -41,11 +41,13 @@ div { color: black;
 
 }
 form.form-example {
+  float: center;
   display: table;
   text-align: center;
 }
 
-div.center {
+div.form-example {
+  float: center;
   display: table-row;
   text-align: center;
 }

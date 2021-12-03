@@ -47,18 +47,21 @@ form.form-example {
 }
 
 div.form-example {
+  float: left;
   position: inherit;
     display: table-row;
   text-align: left;
 }
 
 label, input {
+  float: left;
   display: table-cell;
   margin-bottom: 10px;
   text-align: left;
 }
 
 label {
+  float: left;
   padding-right: 10px;
   text-align: left;
 }

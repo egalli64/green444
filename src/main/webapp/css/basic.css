@@ -41,6 +41,7 @@ div { color: black;
 
 }
 form.form-example {
+  float:left;
   position: center;
   display: table;
   text-align: left;
@@ -62,7 +63,7 @@ label, input {
 
 label {
   float: left;
-  padding-right: 10px;
+   padding-right: 10px;
   text-align: left;
 }
 #blockId {

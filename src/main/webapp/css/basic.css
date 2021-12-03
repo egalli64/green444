@@ -41,14 +41,14 @@ div { color: black;
 
 }
 form.form-example {
-  float: center;
+  position: center;
   display: table;
   text-align: center;
 }
 
 div.form-example {
-  float: center;
-  display: table-row;
+  position: inherit;
+    display: table-row;
   text-align: center;
 }
 

@@ -42,10 +42,12 @@ div { color: black;
 }
 form.form-example {
   display: table;
+  text-align: center;
 }
 
 div.form-example {
   display: table-row;
+  text-align: center;
 }
 
 label, input {

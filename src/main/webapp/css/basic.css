@@ -43,24 +43,24 @@ div { color: black;
 form.form-example {
   position: center;
   display: table;
-  text-align: center;
+  text-align: left;
 }
 
 div.form-example {
   position: inherit;
     display: table-row;
-  text-align: center;
+  text-align: left;
 }
 
 label, input {
   display: table-cell;
   margin-bottom: 10px;
-  text-align: center;
+  text-align: left;
 }
 
 label {
   padding-right: 10px;
-  text-align: center;
+  text-align: left;
 }
 #blockId {
     border: 3px solid #ff8000;
